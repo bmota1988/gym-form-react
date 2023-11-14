@@ -5,7 +5,6 @@ import FormCheck from "react-bootstrap/FormCheck";
 import "./style/MainForm.css";
 import InputGroup from "react-bootstrap/InputGroup";
 import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 
 const MainForm = () => {
   return (
